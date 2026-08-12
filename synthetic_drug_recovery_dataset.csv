@@ -1,0 +1,1001 @@
+Injury_Type,Injury_Severity,Age,Sex,Medication,Sleep_Hours,Training_Intensity,Recovery_Therapy_Type,Recovery_Time
+Muscle Strain,Mild,24,Male,NSAIDs,6.0,Low,Stretching,17
+ACL Tear,Moderate,20,Female,NSAIDs,5.7,High,Physiotherapy,67
+Muscle Strain,Severe,31,Male,NSAIDs,8.0,High,Stretching,33
+Muscle Strain,Moderate,27,Female,None,7.3,Low,Rest and Ice,3
+Sprained Ankle,Severe,33,Male,None,7.4,Low,Physiotherapy,38
+Sprained Ankle,Moderate,33,Male,NSAIDs,8.5,Low,Rest and Ice,18
+Sprained Ankle,Moderate,39,Male,Steroid,6.0,Low,Rest and Ice,3
+ACL Tear,Severe,27,Female,NSAIDs,8.6,Low,Physiotherapy,63
+Muscle Strain,Mild,30,Female,None,6.4,Low,Rest and Ice,17
+Muscle Strain,Moderate,23,Male,None,9.6,Medium,Rest and Ice,22
+Sprained Ankle,Mild,29,Female,None,7.7,Low,Rest and Ice,6
+ACL Tear,Severe,26,Male,Steroid,5.9,Low,Physiotherapy,52
+ACL Tear,Severe,30,Female,Steroid,4.6,Medium,Physiotherapy,79
+Sprained Ankle,Mild,21,Female,None,8.0,Low,Rest and Ice,11
+Sprained Ankle,Moderate,28,Male,None,6.6,High,Physiotherapy,34
+Sprained Ankle,Severe,37,Male,NSAIDs,6.8,High,Physiotherapy,28
+Sprained Ankle,Mild,35,Male,None,7.9,Low,Rest and Ice,16
+Muscle Strain,Moderate,28,Male,NSAIDs,8.2,Medium,Physiotherapy,15
+Muscle Strain,Severe,38,Female,Steroid,8.5,High,Stretching,3
+Sprained Ankle,Mild,21,Female,NSAIDs,5.6,Medium,Physiotherapy,3
+Muscle Strain,Moderate,35,Female,NSAIDs,8.7,High,Stretching,8
+Sprained Ankle,Mild,18,Male,NSAIDs,6.3,Low,Rest and Ice,12
+Sprained Ankle,Severe,24,Male,NSAIDs,4.3,Medium,Physiotherapy,33
+Muscle Strain,Severe,23,Female,Steroid,5.6,Medium,Rest and Ice,16
+Muscle Strain,Severe,32,Male,Steroid,7.3,Medium,Rest and Ice,3
+ACL Tear,Moderate,35,Female,NSAIDs,5.8,High,Rest and Ice,3
+Sprained Ankle,Severe,28,Female,NSAIDs,6.9,High,Rest and Ice,31
+Muscle Strain,Severe,37,Female,Steroid,7.4,High,Rest and Ice,5
+Muscle Strain,Mild,32,Female,NSAIDs,6.8,Low,Physiotherapy,3
+Sprained Ankle,Severe,33,Female,Steroid,6.4,High,Stretching,3
+Muscle Strain,Mild,24,Male,NSAIDs,5.5,Low,Physiotherapy,10
+Sprained Ankle,Moderate,38,Male,NSAIDs,7.0,Medium,Physiotherapy,18
+Sprained Ankle,Mild,27,Male,None,4.5,Medium,Physiotherapy,12
+ACL Tear,Mild,29,Female,NSAIDs,6.2,Low,Physiotherapy,52
+ACL Tear,Mild,31,Female,None,5.9,High,Stretching,53
+ACL Tear,Moderate,22,Female,NSAIDs,6.7,Low,Physiotherapy,25
+Sprained Ankle,Mild,38,Female,None,6.7,Medium,Rest and Ice,13
+Sprained Ankle,Moderate,35,Male,NSAIDs,8.2,Medium,Physiotherapy,3
+Muscle Strain,Mild,22,Male,None,8.9,Low,Physiotherapy,10
+Muscle Strain,Mild,20,Female,None,5.7,High,Stretching,12
+Sprained Ankle,Moderate,22,Female,Steroid,9.4,High,Stretching,3
+Muscle Strain,Severe,34,Female,NSAIDs,6.1,Low,Rest and Ice,5
+Sprained Ankle,Mild,36,Male,NSAIDs,7.2,Low,Physiotherapy,6
+ACL Tear,Moderate,36,Male,NSAIDs,7.6,High,Physiotherapy,75
+Sprained Ankle,Severe,38,Male,None,9.9,Medium,Physiotherapy,25
+Muscle Strain,Moderate,29,Female,Steroid,6.3,Low,Rest and Ice,3
+Sprained Ankle,Mild,26,Female,None,4.8,High,Stretching,7
+Muscle Strain,Mild,18,Male,NSAIDs,8.8,High,Rest and Ice,8
+Muscle Strain,Severe,35,Female,Steroid,6.0,Medium,Physiotherapy,22
+Sprained Ankle,Mild,38,Male,NSAIDs,6.6,Medium,Stretching,4
+ACL Tear,Severe,21,Female,Steroid,5.7,Medium,Stretching,38
+ACL Tear,Moderate,27,Male,NSAIDs,6.6,Medium,Rest and Ice,57
+ACL Tear,Severe,24,Female,None,6.0,Medium,Stretching,94
+ACL Tear,Severe,39,Male,Steroid,7.8,Low,Stretching,23
+Muscle Strain,Severe,18,Male,Steroid,7.1,High,Physiotherapy,3
+ACL Tear,Moderate,34,Male,Steroid,6.2,Low,Physiotherapy,4
+Sprained Ankle,Severe,19,Male,Steroid,8.2,Low,Stretching,11
+Sprained Ankle,Moderate,28,Male,Steroid,7.3,Low,Stretching,3
+Sprained Ankle,Moderate,26,Male,NSAIDs,4.8,Low,Rest and Ice,37
+Sprained Ankle,Moderate,24,Female,NSAIDs,8.1,Low,Rest and Ice,6
+Muscle Strain,Severe,39,Female,Steroid,7.2,Medium,Stretching,3
+Sprained Ankle,Severe,34,Female,NSAIDs,8.7,Medium,Physiotherapy,3
+ACL Tear,Severe,34,Male,NSAIDs,7.1,High,Stretching,55
+Muscle Strain,Moderate,19,Male,Steroid,6.0,Low,Stretching,3
+Sprained Ankle,Moderate,23,Female,Steroid,6.8,High,Physiotherapy,4
+Muscle Strain,Moderate,31,Male,NSAIDs,8.0,Medium,Physiotherapy,3
+Sprained Ankle,Mild,23,Male,None,6.1,Medium,Rest and Ice,21
+ACL Tear,Mild,19,Male,None,6.5,Medium,Rest and Ice,36
+Sprained Ankle,Moderate,18,Male,Steroid,6.7,Low,Rest and Ice,34
+ACL Tear,Mild,27,Male,NSAIDs,5.6,Low,Rest and Ice,23
+ACL Tear,Mild,38,Female,None,6.1,Medium,Physiotherapy,3
+Sprained Ankle,Mild,22,Female,None,7.2,High,Stretching,24
+Sprained Ankle,Mild,19,Female,NSAIDs,8.4,High,Rest and Ice,5
+ACL Tear,Mild,39,Female,None,7.4,Medium,Rest and Ice,44
+Muscle Strain,Severe,33,Female,Steroid,6.9,High,Physiotherapy,3
+Muscle Strain,Moderate,19,Male,Steroid,6.0,Medium,Physiotherapy,3
+ACL Tear,Moderate,27,Male,None,8.3,High,Stretching,53
+Sprained Ankle,Moderate,19,Male,NSAIDs,7.5,Medium,Stretching,12
+Muscle Strain,Mild,33,Male,None,6.2,High,Physiotherapy,3
+Sprained Ankle,Severe,33,Female,NSAIDs,8.1,Low,Rest and Ice,72
+ACL Tear,Severe,36,Female,Steroid,7.7,Medium,Rest and Ice,82
+Muscle Strain,Mild,24,Female,NSAIDs,6.0,Medium,Rest and Ice,6
+Sprained Ankle,Moderate,39,Male,Steroid,6.9,High,Stretching,26
+Sprained Ankle,Severe,29,Female,Steroid,6.4,Medium,Rest and Ice,31
+Sprained Ankle,Severe,32,Male,NSAIDs,10.0,Medium,Rest and Ice,9
+Sprained Ankle,Moderate,25,Female,NSAIDs,7.6,Medium,Physiotherapy,24
+Muscle Strain,Moderate,23,Female,NSAIDs,7.2,Low,Rest and Ice,21
+Muscle Strain,Mild,27,Male,None,7.6,Low,Physiotherapy,3
+ACL Tear,Severe,20,Male,NSAIDs,8.7,High,Rest and Ice,85
+Muscle Strain,Mild,36,Female,None,6.9,Low,Stretching,11
+Sprained Ankle,Severe,34,Female,NSAIDs,6.3,High,Rest and Ice,30
+Muscle Strain,Moderate,24,Male,NSAIDs,8.0,Low,Rest and Ice,17
+ACL Tear,Moderate,38,Female,NSAIDs,6.8,High,Physiotherapy,71
+Muscle Strain,Moderate,37,Female,NSAIDs,5.7,Low,Physiotherapy,3
+ACL Tear,Mild,21,Male,None,5.5,Low,Physiotherapy,38
+Muscle Strain,Mild,31,Female,None,8.8,High,Rest and Ice,19
+Muscle Strain,Mild,37,Male,NSAIDs,7.2,Medium,Rest and Ice,3
+Muscle Strain,Mild,39,Female,NSAIDs,6.3,Medium,Stretching,6
+Sprained Ankle,Severe,32,Male,None,6.7,Low,Rest and Ice,69
+Sprained Ankle,Moderate,25,Female,Steroid,8.0,High,Stretching,16
+Sprained Ankle,Mild,38,Male,NSAIDs,6.6,Medium,Physiotherapy,3
+Muscle Strain,Severe,32,Female,Steroid,5.3,High,Physiotherapy,3
+Sprained Ankle,Severe,39,Male,NSAIDs,7.4,Medium,Physiotherapy,32
+Muscle Strain,Severe,37,Female,Steroid,8.5,High,Stretching,24
+ACL Tear,Severe,31,Female,Steroid,8.4,Low,Rest and Ice,58
+Sprained Ankle,Mild,26,Female,NSAIDs,6.3,High,Physiotherapy,16
+Muscle Strain,Moderate,25,Female,Steroid,8.5,Medium,Rest and Ice,3
+ACL Tear,Severe,34,Female,Steroid,7.3,Low,Rest and Ice,51
+Sprained Ankle,Moderate,19,Female,NSAIDs,8.5,High,Physiotherapy,3
+Sprained Ankle,Mild,20,Female,None,7.7,Medium,Stretching,21
+Sprained Ankle,Severe,25,Female,Steroid,5.2,Low,Rest and Ice,8
+Sprained Ankle,Mild,29,Female,NSAIDs,9.1,High,Physiotherapy,4
+ACL Tear,Mild,18,Male,NSAIDs,7.1,Medium,Rest and Ice,42
+ACL Tear,Moderate,27,Male,NSAIDs,7.7,High,Rest and Ice,98
+Muscle Strain,Moderate,37,Female,NSAIDs,5.4,High,Rest and Ice,22
+ACL Tear,Moderate,20,Male,Steroid,7.6,Low,Rest and Ice,24
+ACL Tear,Mild,23,Female,NSAIDs,8.3,Low,Rest and Ice,31
+Sprained Ankle,Severe,24,Female,Steroid,9.3,Medium,Stretching,4
+ACL Tear,Mild,37,Male,NSAIDs,8.7,Low,Stretching,30
+Muscle Strain,Mild,35,Female,NSAIDs,7.7,Medium,Physiotherapy,3
+ACL Tear,Severe,28,Female,Steroid,5.1,High,Stretching,56
+ACL Tear,Severe,36,Male,Steroid,7.2,High,Stretching,24
+Sprained Ankle,Severe,22,Male,Steroid,6.3,Medium,Stretching,27
+Sprained Ankle,Severe,36,Female,Steroid,7.3,High,Rest and Ice,33
+Sprained Ankle,Moderate,28,Male,NSAIDs,5.5,Low,Rest and Ice,3
+Muscle Strain,Moderate,29,Male,NSAIDs,6.7,High,Physiotherapy,3
+ACL Tear,Mild,27,Female,NSAIDs,6.4,Low,Physiotherapy,25
+ACL Tear,Moderate,25,Male,NSAIDs,6.3,Medium,Physiotherapy,3
+Sprained Ankle,Moderate,26,Male,NSAIDs,6.4,Medium,Rest and Ice,36
+Muscle Strain,Mild,21,Female,None,6.8,High,Stretching,8
+Muscle Strain,Moderate,22,Male,NSAIDs,7.3,High,Stretching,3
+Sprained Ankle,Moderate,38,Male,NSAIDs,4.0,Low,Rest and Ice,16
+Sprained Ankle,Mild,25,Female,NSAIDs,4.1,Low,Physiotherapy,5
+Sprained Ankle,Mild,26,Female,NSAIDs,6.6,High,Physiotherapy,3
+ACL Tear,Moderate,32,Female,NSAIDs,6.8,High,Physiotherapy,61
+Sprained Ankle,Mild,32,Male,None,7.2,Medium,Rest and Ice,14
+Muscle Strain,Severe,33,Female,NSAIDs,6.1,Medium,Physiotherapy,6
+Muscle Strain,Moderate,31,Female,NSAIDs,7.0,Medium,Physiotherapy,3
+Muscle Strain,Moderate,25,Male,NSAIDs,7.2,High,Rest and Ice,3
+ACL Tear,Moderate,35,Female,Steroid,6.1,High,Stretching,6
+ACL Tear,Severe,27,Female,Steroid,8.2,High,Rest and Ice,66
+Sprained Ankle,Mild,37,Female,NSAIDs,7.2,Medium,Rest and Ice,3
+Muscle Strain,Moderate,23,Female,NSAIDs,7.7,High,Rest and Ice,31
+Sprained Ankle,Moderate,29,Male,NSAIDs,7.1,Low,Rest and Ice,15
+Sprained Ankle,Mild,19,Female,None,9.5,High,Stretching,3
+Sprained Ankle,Severe,24,Female,Steroid,7.7,High,Physiotherapy,3
+Muscle Strain,Severe,33,Male,Steroid,6.4,High,Rest and Ice,35
+Muscle Strain,Moderate,20,Female,NSAIDs,8.0,High,Stretching,12
+Sprained Ankle,Severe,30,Male,NSAIDs,5.0,High,Physiotherapy,41
+Sprained Ankle,Severe,20,Male,NSAIDs,7.1,Low,Physiotherapy,14
+ACL Tear,Moderate,35,Male,NSAIDs,7.4,Low,Physiotherapy,21
+Sprained Ankle,Severe,28,Female,NSAIDs,7.2,High,Rest and Ice,44
+Sprained Ankle,Moderate,25,Male,NSAIDs,6.6,Medium,Rest and Ice,4
+Muscle Strain,Moderate,23,Male,NSAIDs,5.8,High,Physiotherapy,15
+ACL Tear,Moderate,18,Male,NSAIDs,6.1,High,Physiotherapy,32
+Sprained Ankle,Severe,18,Female,Steroid,7.1,High,Physiotherapy,30
+Muscle Strain,Mild,25,Female,NSAIDs,5.7,Medium,Physiotherapy,11
+ACL Tear,Severe,22,Female,Steroid,9.1,Medium,Physiotherapy,33
+Sprained Ankle,Severe,33,Female,NSAIDs,3.8,Medium,Physiotherapy,16
+Muscle Strain,Mild,28,Female,None,6.6,Low,Stretching,17
+Muscle Strain,Severe,22,Female,Steroid,7.1,Medium,Physiotherapy,3
+Muscle Strain,Mild,21,Female,None,7.6,Low,Rest and Ice,19
+Muscle Strain,Mild,23,Male,NSAIDs,5.9,Low,Rest and Ice,12
+Muscle Strain,Moderate,31,Male,None,8.4,Medium,Rest and Ice,7
+Sprained Ankle,Mild,39,Male,None,5.3,Medium,Physiotherapy,3
+ACL Tear,Severe,36,Male,None,6.3,Medium,Rest and Ice,28
+Sprained Ankle,Severe,26,Female,Steroid,7.7,Low,Stretching,3
+Sprained Ankle,Moderate,29,Male,NSAIDs,8.2,High,Physiotherapy,18
+Sprained Ankle,Mild,28,Male,NSAIDs,5.3,Medium,Rest and Ice,17
+Muscle Strain,Mild,31,Male,None,10.0,Medium,Stretching,12
+Muscle Strain,Moderate,33,Male,NSAIDs,5.9,Medium,Stretching,13
+Sprained Ankle,Severe,18,Female,NSAIDs,5.4,Low,Rest and Ice,33
+Muscle Strain,Moderate,30,Female,Steroid,7.6,Low,Stretching,3
+Sprained Ankle,Mild,38,Female,NSAIDs,6.6,High,Rest and Ice,12
+Muscle Strain,Moderate,38,Male,NSAIDs,6.4,Medium,Stretching,20
+Sprained Ankle,Moderate,30,Female,Steroid,7.7,Low,Physiotherapy,12
+Muscle Strain,Severe,19,Male,Steroid,5.2,High,Physiotherapy,4
+Muscle Strain,Mild,21,Female,NSAIDs,5.0,Medium,Physiotherapy,3
+ACL Tear,Severe,23,Female,Steroid,6.3,Low,Physiotherapy,76
+Sprained Ankle,Moderate,22,Female,NSAIDs,8.3,Medium,Physiotherapy,25
+Sprained Ankle,Severe,20,Female,Steroid,6.3,Medium,Rest and Ice,9
+Sprained Ankle,Mild,18,Female,None,8.9,Low,Physiotherapy,11
+ACL Tear,Moderate,21,Male,None,8.4,Low,Physiotherapy,24
+ACL Tear,Severe,37,Female,Steroid,7.3,Low,Physiotherapy,124
+Sprained Ankle,Mild,19,Male,None,7.4,Medium,Physiotherapy,4
+Muscle Strain,Severe,22,Male,Steroid,7.3,Medium,Stretching,29
+ACL Tear,Moderate,20,Male,Steroid,7.2,High,Physiotherapy,34
+Muscle Strain,Mild,26,Male,NSAIDs,6.6,Medium,Physiotherapy,14
+Muscle Strain,Mild,37,Male,Steroid,6.7,Low,Rest and Ice,3
+Sprained Ankle,Moderate,23,Female,NSAIDs,5.7,Medium,Stretching,12
+Sprained Ankle,Mild,35,Female,None,4.3,High,Rest and Ice,20
+ACL Tear,Moderate,23,Female,NSAIDs,8.3,High,Physiotherapy,49
+ACL Tear,Mild,36,Female,None,7.2,Low,Rest and Ice,30
+Muscle Strain,Moderate,29,Male,None,7.0,Low,Rest and Ice,8
+Sprained Ankle,Mild,28,Female,None,7.5,High,Physiotherapy,4
+Sprained Ankle,Severe,19,Female,Steroid,6.0,High,Stretching,38
+Muscle Strain,Severe,32,Male,Steroid,5.8,High,Stretching,3
+ACL Tear,Severe,29,Male,NSAIDs,6.7,Low,Rest and Ice,52
+ACL Tear,Moderate,29,Female,NSAIDs,8.6,High,Physiotherapy,58
+ACL Tear,Mild,26,Female,None,5.6,High,Rest and Ice,33
+Muscle Strain,Severe,38,Male,None,3.8,Low,Rest and Ice,72
+Sprained Ankle,Mild,19,Female,NSAIDs,6.4,Medium,Rest and Ice,3
+Sprained Ankle,Mild,39,Female,NSAIDs,8.4,Medium,Physiotherapy,3
+ACL Tear,Mild,20,Female,NSAIDs,4.9,High,Physiotherapy,3
+Muscle Strain,Moderate,29,Female,None,5.6,Medium,Stretching,46
+Sprained Ankle,Severe,33,Male,Steroid,7.3,Medium,Physiotherapy,3
+Sprained Ankle,Moderate,38,Male,NSAIDs,10.0,Medium,Rest and Ice,3
+Muscle Strain,Moderate,18,Male,NSAIDs,5.4,Medium,Rest and Ice,8
+Sprained Ankle,Mild,38,Female,NSAIDs,5.3,High,Stretching,3
+Sprained Ankle,Severe,20,Female,Steroid,7.4,Medium,Physiotherapy,4
+Muscle Strain,Moderate,37,Female,NSAIDs,8.4,Medium,Rest and Ice,10
+Muscle Strain,Moderate,19,Female,NSAIDs,6.3,Low,Stretching,24
+Muscle Strain,Mild,26,Female,Steroid,5.1,High,Stretching,3
+Sprained Ankle,Severe,36,Male,Steroid,7.5,Low,Rest and Ice,19
+Muscle Strain,Moderate,32,Female,NSAIDs,7.7,Low,Rest and Ice,4
+Sprained Ankle,Mild,35,Female,NSAIDs,9.1,High,Physiotherapy,3
+Sprained Ankle,Mild,28,Male,None,7.8,Medium,Stretching,3
+Muscle Strain,Moderate,33,Female,NSAIDs,8.0,Low,Rest and Ice,7
+Muscle Strain,Moderate,39,Male,NSAIDs,6.7,High,Stretching,15
+ACL Tear,Mild,34,Male,NSAIDs,9.9,Medium,Physiotherapy,9
+Muscle Strain,Severe,22,Male,Steroid,6.5,High,Rest and Ice,3
+Muscle Strain,Mild,29,Male,None,6.3,Low,Physiotherapy,8
+Sprained Ankle,Moderate,28,Male,NSAIDs,9.2,Medium,Stretching,32
+Muscle Strain,Severe,32,Female,NSAIDs,5.2,Medium,Physiotherapy,20
+Sprained Ankle,Moderate,20,Male,Steroid,4.8,High,Physiotherapy,3
+Sprained Ankle,Moderate,18,Male,Steroid,7.1,Medium,Stretching,9
+ACL Tear,Moderate,37,Female,NSAIDs,7.0,Low,Physiotherapy,8
+Muscle Strain,Mild,33,Female,NSAIDs,6.7,Low,Stretching,3
+ACL Tear,Severe,19,Male,Steroid,8.2,Low,Rest and Ice,68
+Muscle Strain,Moderate,19,Female,NSAIDs,5.9,High,Stretching,27
+ACL Tear,Severe,20,Female,NSAIDs,7.1,Medium,Stretching,57
+Muscle Strain,Mild,25,Male,NSAIDs,6.6,Medium,Rest and Ice,3
+Muscle Strain,Mild,32,Male,NSAIDs,5.9,Medium,Stretching,8
+Muscle Strain,Mild,24,Female,NSAIDs,6.9,Low,Rest and Ice,15
+Sprained Ankle,Moderate,23,Male,NSAIDs,8.0,Medium,Rest and Ice,10
+Muscle Strain,Moderate,26,Male,Steroid,9.5,Low,Stretching,3
+Sprained Ankle,Severe,37,Female,NSAIDs,7.7,Medium,Physiotherapy,5
+Sprained Ankle,Moderate,18,Male,NSAIDs,4.0,Low,Physiotherapy,20
+Muscle Strain,Severe,25,Male,Steroid,7.0,Medium,Rest and Ice,6
+Sprained Ankle,Mild,20,Male,NSAIDs,7.1,High,Physiotherapy,7
+ACL Tear,Severe,21,Male,Steroid,8.1,High,Physiotherapy,25
+ACL Tear,Severe,32,Male,NSAIDs,7.2,Low,Stretching,74
+ACL Tear,Severe,23,Female,NSAIDs,8.5,Low,Rest and Ice,56
+Muscle Strain,Severe,32,Female,Steroid,7.5,Medium,Rest and Ice,42
+Sprained Ankle,Severe,38,Male,Steroid,8.9,Medium,Stretching,25
+ACL Tear,Moderate,20,Female,NSAIDs,6.5,High,Physiotherapy,71
+Muscle Strain,Mild,38,Male,NSAIDs,7.2,Medium,Rest and Ice,3
+ACL Tear,Mild,38,Male,NSAIDs,8.0,Low,Physiotherapy,17
+ACL Tear,Severe,31,Male,Steroid,6.3,Low,Rest and Ice,54
+ACL Tear,Moderate,37,Male,Steroid,6.1,Low,Rest and Ice,16
+Sprained Ankle,Severe,31,Male,NSAIDs,6.2,Low,Rest and Ice,35
+Muscle Strain,Moderate,21,Female,None,6.1,Low,Rest and Ice,14
+ACL Tear,Mild,29,Female,NSAIDs,7.6,High,Physiotherapy,22
+Sprained Ankle,Mild,34,Male,NSAIDs,4.8,High,Physiotherapy,9
+Sprained Ankle,Moderate,24,Female,NSAIDs,5.1,Low,Physiotherapy,32
+Muscle Strain,Moderate,26,Male,Steroid,9.2,Medium,Physiotherapy,3
+ACL Tear,Mild,20,Female,NSAIDs,6.1,Low,Stretching,43
+Muscle Strain,Moderate,30,Male,Steroid,7.2,High,Rest and Ice,14
+Muscle Strain,Mild,32,Female,NSAIDs,5.2,Low,Rest and Ice,3
+Sprained Ankle,Moderate,35,Male,NSAIDs,7.1,High,Rest and Ice,39
+Muscle Strain,Mild,36,Male,NSAIDs,6.1,High,Stretching,3
+ACL Tear,Severe,18,Female,NSAIDs,5.1,Low,Physiotherapy,62
+Sprained Ankle,Mild,23,Female,NSAIDs,8.6,Low,Rest and Ice,12
+Muscle Strain,Moderate,19,Male,NSAIDs,8.4,Medium,Physiotherapy,22
+ACL Tear,Mild,31,Female,NSAIDs,6.9,High,Physiotherapy,21
+Muscle Strain,Mild,23,Male,NSAIDs,8.2,Medium,Stretching,8
+Muscle Strain,Moderate,31,Female,NSAIDs,9.3,Low,Stretching,8
+Muscle Strain,Moderate,21,Female,NSAIDs,7.9,High,Physiotherapy,3
+Muscle Strain,Moderate,38,Male,None,7.6,Medium,Rest and Ice,6
+Sprained Ankle,Mild,25,Female,None,7.2,Medium,Rest and Ice,17
+ACL Tear,Moderate,20,Female,NSAIDs,7.8,Medium,Stretching,62
+ACL Tear,Severe,36,Male,NSAIDs,6.6,Low,Stretching,43
+ACL Tear,Severe,31,Female,Steroid,6.7,Low,Stretching,66
+ACL Tear,Mild,37,Male,NSAIDs,7.5,Low,Stretching,73
+Muscle Strain,Moderate,34,Male,Steroid,6.4,High,Stretching,21
+Muscle Strain,Mild,25,Male,NSAIDs,6.6,Low,Stretching,3
+ACL Tear,Mild,31,Male,None,7.0,High,Stretching,53
+Muscle Strain,Severe,23,Male,Steroid,8.4,Medium,Rest and Ice,3
+Muscle Strain,Mild,39,Female,NSAIDs,5.6,Medium,Stretching,3
+ACL Tear,Moderate,33,Male,NSAIDs,7.9,Low,Stretching,40
+ACL Tear,Moderate,36,Male,NSAIDs,8.0,Medium,Rest and Ice,78
+Sprained Ankle,Moderate,31,Female,NSAIDs,7.9,Low,Rest and Ice,29
+Muscle Strain,Moderate,36,Female,Steroid,6.0,High,Physiotherapy,8
+Sprained Ankle,Mild,20,Female,Steroid,5.0,Medium,Stretching,3
+Muscle Strain,Mild,27,Male,None,7.7,Low,Stretching,14
+Sprained Ankle,Moderate,36,Male,Steroid,7.2,Medium,Stretching,6
+Muscle Strain,Mild,26,Male,NSAIDs,8.2,Medium,Stretching,3
+Muscle Strain,Moderate,37,Female,Steroid,6.2,Low,Physiotherapy,15
+Sprained Ankle,Mild,30,Male,NSAIDs,7.9,Medium,Rest and Ice,3
+Muscle Strain,Mild,24,Female,NSAIDs,8.3,Medium,Rest and Ice,7
+Sprained Ankle,Moderate,31,Male,None,6.9,Medium,Stretching,17
+Sprained Ankle,Mild,26,Female,None,7.5,Medium,Stretching,28
+ACL Tear,Moderate,36,Male,None,7.5,High,Stretching,8
+Muscle Strain,Moderate,32,Male,Steroid,6.0,Medium,Physiotherapy,3
+Sprained Ankle,Severe,37,Male,Steroid,7.6,Medium,Physiotherapy,11
+Muscle Strain,Mild,31,Female,NSAIDs,8.9,Low,Rest and Ice,3
+ACL Tear,Mild,23,Female,NSAIDs,7.0,High,Stretching,3
+Sprained Ankle,Mild,38,Male,None,5.2,Low,Stretching,3
+Muscle Strain,Moderate,21,Male,NSAIDs,6.2,Low,Stretching,12
+Sprained Ankle,Moderate,25,Male,None,4.9,Low,Stretching,24
+Sprained Ankle,Mild,34,Female,None,8.5,High,Physiotherapy,8
+Muscle Strain,Severe,26,Male,NSAIDs,7.9,Low,Rest and Ice,18
+Muscle Strain,Mild,18,Male,NSAIDs,6.4,Low,Rest and Ice,5
+Muscle Strain,Moderate,37,Male,NSAIDs,5.3,Low,Physiotherapy,6
+Muscle Strain,Moderate,31,Male,None,6.0,Medium,Stretching,31
+ACL Tear,Severe,28,Female,NSAIDs,6.2,Low,Rest and Ice,82
+Muscle Strain,Moderate,38,Female,None,7.1,High,Rest and Ice,16
+Sprained Ankle,Severe,20,Male,Steroid,7.1,High,Physiotherapy,24
+ACL Tear,Mild,26,Male,NSAIDs,8.6,Medium,Stretching,21
+Sprained Ankle,Severe,31,Female,Steroid,6.2,High,Rest and Ice,3
+Muscle Strain,Mild,26,Female,NSAIDs,5.2,High,Stretching,12
+Sprained Ankle,Severe,21,Male,NSAIDs,5.6,Medium,Rest and Ice,11
+Sprained Ankle,Moderate,21,Female,Steroid,7.0,Low,Physiotherapy,15
+ACL Tear,Severe,25,Female,NSAIDs,6.1,Medium,Stretching,75
+ACL Tear,Moderate,19,Male,NSAIDs,6.6,Low,Physiotherapy,34
+Muscle Strain,Moderate,26,Female,NSAIDs,6.5,Low,Rest and Ice,3
+Muscle Strain,Moderate,31,Female,None,8.2,High,Physiotherapy,31
+Sprained Ankle,Moderate,39,Male,NSAIDs,6.3,Medium,Physiotherapy,7
+Sprained Ankle,Mild,26,Male,None,6.5,High,Physiotherapy,13
+Sprained Ankle,Mild,33,Female,NSAIDs,7.9,High,Rest and Ice,3
+Muscle Strain,Mild,34,Male,None,6.3,Low,Stretching,11
+Muscle Strain,Mild,33,Female,None,7.5,High,Physiotherapy,6
+Muscle Strain,Severe,29,Male,Steroid,7.4,Medium,Stretching,19
+Sprained Ankle,Mild,20,Female,None,7.2,High,Rest and Ice,10
+ACL Tear,Severe,28,Male,NSAIDs,5.6,High,Stretching,62
+Muscle Strain,Mild,31,Female,NSAIDs,8.5,Low,Physiotherapy,3
+Muscle Strain,Mild,35,Female,None,9.7,Medium,Physiotherapy,5
+Muscle Strain,Severe,38,Female,NSAIDs,7.0,High,Physiotherapy,20
+Muscle Strain,Moderate,38,Male,NSAIDs,5.7,Low,Physiotherapy,17
+Sprained Ankle,Moderate,22,Male,NSAIDs,7.0,High,Physiotherapy,5
+Muscle Strain,Moderate,33,Female,NSAIDs,8.2,Medium,Physiotherapy,31
+ACL Tear,Moderate,37,Female,Steroid,6.3,High,Rest and Ice,72
+Sprained Ankle,Mild,22,Male,None,6.8,High,Rest and Ice,18
+Sprained Ankle,Severe,20,Male,Steroid,7.4,Low,Rest and Ice,3
+Sprained Ankle,Severe,29,Male,Steroid,8.4,High,Stretching,29
+Sprained Ankle,Moderate,18,Male,None,7.9,Low,Stretching,19
+ACL Tear,Mild,38,Male,NSAIDs,8.0,Medium,Rest and Ice,6
+Muscle Strain,Moderate,26,Male,NSAIDs,6.5,High,Stretching,11
+Muscle Strain,Mild,26,Female,NSAIDs,7.5,Medium,Stretching,3
+Sprained Ankle,Mild,21,Male,None,6.1,Medium,Physiotherapy,13
+Muscle Strain,Mild,20,Female,NSAIDs,8.0,High,Physiotherapy,6
+Muscle Strain,Moderate,34,Male,NSAIDs,8.4,Low,Stretching,21
+Sprained Ankle,Severe,19,Male,Steroid,7.7,Medium,Stretching,68
+Muscle Strain,Moderate,18,Female,None,6.6,Medium,Rest and Ice,4
+Muscle Strain,Moderate,25,Female,NSAIDs,6.8,High,Stretching,9
+Muscle Strain,Moderate,30,Male,NSAIDs,9.2,High,Physiotherapy,3
+Muscle Strain,Mild,32,Female,NSAIDs,6.6,High,Stretching,12
+Sprained Ankle,Moderate,25,Female,NSAIDs,8.3,High,Rest and Ice,9
+Muscle Strain,Severe,29,Female,Steroid,7.4,High,Physiotherapy,16
+Muscle Strain,Mild,39,Female,NSAIDs,6.6,High,Physiotherapy,3
+Muscle Strain,Severe,29,Male,Steroid,5.4,Low,Physiotherapy,3
+ACL Tear,Moderate,31,Female,NSAIDs,7.3,Medium,Physiotherapy,20
+Muscle Strain,Moderate,32,Male,NSAIDs,7.1,Low,Stretching,25
+Sprained Ankle,Moderate,32,Male,Steroid,9.2,Low,Rest and Ice,3
+Sprained Ankle,Moderate,26,Male,Steroid,6.0,High,Stretching,3
+Muscle Strain,Severe,36,Male,Steroid,9.8,Medium,Stretching,3
+Sprained Ankle,Severe,37,Female,NSAIDs,7.5,Low,Physiotherapy,15
+Muscle Strain,Moderate,39,Female,NSAIDs,7.5,High,Rest and Ice,13
+ACL Tear,Mild,25,Male,NSAIDs,6.3,High,Physiotherapy,21
+Muscle Strain,Moderate,38,Male,NSAIDs,7.4,Medium,Stretching,7
+Muscle Strain,Severe,36,Male,NSAIDs,7.6,Low,Stretching,40
+Muscle Strain,Mild,23,Male,NSAIDs,8.1,Low,Physiotherapy,3
+Muscle Strain,Moderate,37,Female,Steroid,5.8,Low,Stretching,12
+Muscle Strain,Moderate,36,Male,NSAIDs,8.7,High,Stretching,5
+ACL Tear,Moderate,21,Female,Steroid,7.4,Medium,Physiotherapy,67
+Muscle Strain,Mild,24,Male,NSAIDs,7.7,Medium,Stretching,3
+ACL Tear,Moderate,21,Male,NSAIDs,6.7,Low,Rest and Ice,42
+ACL Tear,Severe,39,Male,NSAIDs,5.9,High,Physiotherapy,94
+Sprained Ankle,Mild,29,Male,NSAIDs,7.1,Low,Rest and Ice,6
+Sprained Ankle,Mild,30,Female,None,7.2,Medium,Stretching,15
+Sprained Ankle,Severe,20,Female,NSAIDs,5.3,High,Stretching,3
+Sprained Ankle,Mild,39,Female,Steroid,8.0,Low,Physiotherapy,3
+Sprained Ankle,Severe,29,Male,NSAIDs,8.2,Low,Stretching,26
+Muscle Strain,Moderate,19,Male,NSAIDs,6.1,High,Physiotherapy,15
+Sprained Ankle,Mild,19,Female,NSAIDs,5.8,Medium,Physiotherapy,3
+Sprained Ankle,Severe,26,Female,NSAIDs,6.6,High,Physiotherapy,12
+ACL Tear,Moderate,18,Male,NSAIDs,7.0,Low,Physiotherapy,58
+Sprained Ankle,Moderate,25,Male,NSAIDs,6.7,Low,Physiotherapy,13
+ACL Tear,Moderate,23,Female,NSAIDs,6.9,Low,Rest and Ice,8
+Sprained Ankle,Moderate,23,Male,NSAIDs,7.3,Low,Physiotherapy,25
+Sprained Ankle,Mild,39,Male,NSAIDs,5.4,Medium,Rest and Ice,3
+Muscle Strain,Moderate,35,Female,None,5.5,Medium,Stretching,34
+Muscle Strain,Severe,34,Male,Steroid,3.7,Low,Physiotherapy,42
+ACL Tear,Mild,29,Female,None,8.1,Medium,Stretching,14
+Muscle Strain,Moderate,23,Male,NSAIDs,7.0,Medium,Physiotherapy,7
+ACL Tear,Mild,25,Female,None,8.3,Medium,Rest and Ice,27
+Sprained Ankle,Severe,36,Male,NSAIDs,5.6,Low,Rest and Ice,24
+Sprained Ankle,Mild,27,Female,NSAIDs,7.0,High,Rest and Ice,17
+ACL Tear,Severe,18,Female,NSAIDs,7.3,High,Stretching,23
+ACL Tear,Moderate,30,Female,Steroid,6.3,High,Physiotherapy,23
+ACL Tear,Mild,34,Female,Steroid,5.1,Low,Stretching,50
+Muscle Strain,Mild,20,Male,NSAIDs,9.1,Medium,Rest and Ice,3
+Muscle Strain,Mild,25,Male,None,8.7,Medium,Stretching,4
+ACL Tear,Moderate,31,Female,NSAIDs,6.5,Low,Rest and Ice,47
+Sprained Ankle,Mild,20,Male,NSAIDs,7.6,Low,Rest and Ice,9
+ACL Tear,Severe,33,Male,NSAIDs,6.4,High,Rest and Ice,47
+ACL Tear,Moderate,30,Male,None,5.8,High,Physiotherapy,60
+Muscle Strain,Mild,37,Male,NSAIDs,9.2,Low,Physiotherapy,3
+ACL Tear,Moderate,34,Male,Steroid,5.0,High,Rest and Ice,4
+ACL Tear,Moderate,30,Female,Steroid,6.7,Medium,Stretching,26
+Sprained Ankle,Mild,23,Female,None,7.1,Low,Stretching,18
+ACL Tear,Mild,34,Female,NSAIDs,9.0,Low,Physiotherapy,31
+Muscle Strain,Mild,31,Female,None,8.1,Medium,Rest and Ice,3
+ACL Tear,Moderate,34,Male,NSAIDs,5.0,Medium,Stretching,63
+Sprained Ankle,Moderate,25,Male,Steroid,7.0,Medium,Rest and Ice,10
+ACL Tear,Moderate,28,Female,NSAIDs,7.0,High,Stretching,20
+Muscle Strain,Severe,37,Male,NSAIDs,6.7,Low,Physiotherapy,3
+Sprained Ankle,Severe,18,Male,None,7.7,High,Rest and Ice,36
+ACL Tear,Moderate,24,Female,Steroid,5.3,Medium,Rest and Ice,69
+Sprained Ankle,Severe,38,Male,Steroid,6.5,High,Stretching,22
+Sprained Ankle,Mild,38,Female,NSAIDs,7.6,Medium,Stretching,3
+ACL Tear,Mild,34,Female,NSAIDs,7.8,High,Stretching,3
+ACL Tear,Mild,27,Male,None,7.2,High,Rest and Ice,59
+Muscle Strain,Mild,28,Male,NSAIDs,6.7,Medium,Physiotherapy,5
+Muscle Strain,Moderate,39,Female,NSAIDs,6.9,High,Physiotherapy,12
+Muscle Strain,Severe,26,Female,NSAIDs,7.9,Low,Stretching,48
+Sprained Ankle,Mild,26,Male,NSAIDs,7.0,High,Physiotherapy,3
+Sprained Ankle,Mild,22,Female,NSAIDs,5.7,High,Stretching,4
+Muscle Strain,Moderate,34,Female,None,5.5,Low,Physiotherapy,24
+ACL Tear,Severe,26,Female,NSAIDs,5.2,Medium,Rest and Ice,34
+ACL Tear,Mild,34,Male,None,8.7,Low,Stretching,15
+ACL Tear,Moderate,38,Female,NSAIDs,8.0,High,Physiotherapy,54
+Sprained Ankle,Mild,36,Male,NSAIDs,6.9,Medium,Rest and Ice,10
+Muscle Strain,Mild,24,Female,NSAIDs,6.5,High,Physiotherapy,3
+Sprained Ankle,Severe,26,Male,NSAIDs,6.3,High,Rest and Ice,4
+Muscle Strain,Severe,24,Female,Steroid,8.3,Low,Rest and Ice,8
+Muscle Strain,Mild,30,Male,None,9.3,Low,Physiotherapy,3
+ACL Tear,Severe,28,Male,NSAIDs,6.3,Medium,Physiotherapy,74
+Muscle Strain,Moderate,31,Male,NSAIDs,8.4,Medium,Rest and Ice,10
+Sprained Ankle,Severe,36,Female,Steroid,7.0,Medium,Rest and Ice,39
+Sprained Ankle,Moderate,28,Female,Steroid,6.7,High,Rest and Ice,12
+ACL Tear,Moderate,30,Female,Steroid,8.8,Low,Stretching,17
+Muscle Strain,Moderate,31,Male,NSAIDs,7.0,Low,Rest and Ice,3
+Sprained Ankle,Moderate,30,Female,Steroid,7.4,Low,Stretching,12
+Sprained Ankle,Mild,18,Male,None,7.3,Medium,Rest and Ice,3
+Muscle Strain,Mild,25,Female,None,5.0,Low,Stretching,11
+Sprained Ankle,Mild,29,Male,None,7.3,Low,Rest and Ice,6
+ACL Tear,Moderate,36,Male,NSAIDs,6.3,Low,Rest and Ice,28
+Muscle Strain,Mild,29,Male,NSAIDs,5.3,Medium,Rest and Ice,3
+Sprained Ankle,Moderate,25,Female,NSAIDs,6.4,Low,Physiotherapy,3
+Sprained Ankle,Severe,25,Female,Steroid,6.4,Medium,Physiotherapy,36
+ACL Tear,Mild,38,Female,NSAIDs,8.2,Low,Rest and Ice,43
+Muscle Strain,Moderate,30,Male,NSAIDs,5.7,Low,Stretching,33
+Muscle Strain,Moderate,29,Male,None,6.1,Low,Stretching,24
+ACL Tear,Severe,33,Female,None,7.3,Medium,Rest and Ice,77
+ACL Tear,Mild,18,Female,NSAIDs,5.4,Medium,Physiotherapy,44
+ACL Tear,Moderate,30,Female,NSAIDs,6.2,Low,Stretching,6
+ACL Tear,Severe,24,Male,Steroid,5.0,High,Physiotherapy,81
+Muscle Strain,Severe,22,Male,NSAIDs,8.1,Medium,Stretching,45
+Sprained Ankle,Moderate,25,Male,None,6.6,Medium,Rest and Ice,12
+ACL Tear,Moderate,31,Male,NSAIDs,7.0,Low,Physiotherapy,71
+Muscle Strain,Moderate,30,Male,NSAIDs,8.1,High,Stretching,35
+Muscle Strain,Severe,32,Female,None,6.1,Low,Rest and Ice,45
+ACL Tear,Moderate,34,Male,NSAIDs,6.6,Medium,Rest and Ice,55
+Sprained Ankle,Mild,32,Male,None,5.7,Medium,Rest and Ice,6
+Muscle Strain,Severe,37,Male,Steroid,5.7,Low,Physiotherapy,33
+Sprained Ankle,Moderate,35,Male,NSAIDs,5.9,Low,Physiotherapy,3
+Muscle Strain,Moderate,35,Male,NSAIDs,6.4,High,Rest and Ice,17
+Sprained Ankle,Mild,19,Female,None,6.5,High,Physiotherapy,12
+Sprained Ankle,Moderate,21,Male,Steroid,7.3,Medium,Stretching,3
+Sprained Ankle,Moderate,18,Male,NSAIDs,5.9,High,Rest and Ice,20
+Muscle Strain,Moderate,21,Male,Steroid,7.4,High,Rest and Ice,34
+Muscle Strain,Mild,35,Female,None,7.6,Medium,Physiotherapy,3
+Muscle Strain,Moderate,22,Female,Steroid,6.4,Medium,Rest and Ice,6
+ACL Tear,Severe,36,Female,NSAIDs,6.0,Medium,Stretching,3
+Muscle Strain,Mild,32,Male,NSAIDs,7.1,Medium,Physiotherapy,3
+Sprained Ankle,Severe,25,Female,Steroid,6.8,Low,Physiotherapy,3
+ACL Tear,Moderate,37,Male,Steroid,7.3,Medium,Rest and Ice,38
+Sprained Ankle,Severe,34,Male,NSAIDs,8.9,Medium,Rest and Ice,36
+ACL Tear,Severe,18,Female,NSAIDs,7.1,Medium,Rest and Ice,74
+Sprained Ankle,Moderate,29,Male,None,6.2,High,Physiotherapy,8
+ACL Tear,Moderate,36,Male,Steroid,5.9,Medium,Rest and Ice,20
+Sprained Ankle,Severe,32,Male,Steroid,6.0,Low,Stretching,27
+ACL Tear,Moderate,26,Female,Steroid,5.2,Low,Rest and Ice,14
+Muscle Strain,Mild,24,Male,None,8.1,Medium,Rest and Ice,3
+ACL Tear,Moderate,19,Male,NSAIDs,4.3,Low,Physiotherapy,34
+Sprained Ankle,Severe,26,Female,None,7.6,High,Rest and Ice,16
+Muscle Strain,Severe,27,Male,Steroid,6.0,Medium,Physiotherapy,21
+ACL Tear,Severe,19,Male,Steroid,6.4,Low,Rest and Ice,100
+Muscle Strain,Moderate,36,Female,Steroid,5.9,Low,Stretching,38
+Muscle Strain,Severe,28,Male,NSAIDs,8.7,Medium,Stretching,28
+Muscle Strain,Mild,30,Male,NSAIDs,7.0,Low,Physiotherapy,3
+Muscle Strain,Moderate,27,Male,NSAIDs,7.9,Medium,Physiotherapy,3
+Muscle Strain,Mild,31,Male,None,8.6,Low,Rest and Ice,4
+Muscle Strain,Mild,35,Male,NSAIDs,7.2,High,Rest and Ice,9
+ACL Tear,Moderate,36,Female,Steroid,5.6,Low,Stretching,31
+Sprained Ankle,Moderate,39,Female,Steroid,6.7,Low,Rest and Ice,9
+Sprained Ankle,Moderate,26,Female,NSAIDs,6.1,Medium,Stretching,32
+ACL Tear,Moderate,24,Female,NSAIDs,6.4,Low,Physiotherapy,30
+ACL Tear,Moderate,20,Male,NSAIDs,6.9,Medium,Rest and Ice,78
+Muscle Strain,Mild,37,Male,Steroid,6.8,High,Physiotherapy,3
+Muscle Strain,Moderate,23,Male,None,7.5,Medium,Rest and Ice,24
+Sprained Ankle,Mild,38,Male,NSAIDs,7.7,Medium,Stretching,3
+Sprained Ankle,Mild,19,Male,NSAIDs,6.8,Low,Physiotherapy,4
+Muscle Strain,Moderate,23,Female,NSAIDs,7.5,High,Physiotherapy,3
+Muscle Strain,Moderate,20,Female,Steroid,6.3,Medium,Rest and Ice,12
+Muscle Strain,Moderate,33,Male,NSAIDs,8.6,Low,Physiotherapy,5
+Sprained Ankle,Moderate,25,Male,NSAIDs,6.3,Low,Stretching,29
+ACL Tear,Moderate,19,Male,None,8.4,Medium,Physiotherapy,41
+ACL Tear,Severe,34,Female,NSAIDs,5.2,Low,Physiotherapy,130
+Muscle Strain,Moderate,26,Male,NSAIDs,6.5,Medium,Rest and Ice,10
+Muscle Strain,Moderate,29,Male,NSAIDs,6.6,Medium,Physiotherapy,3
+Sprained Ankle,Mild,20,Male,NSAIDs,7.3,Medium,Rest and Ice,6
+ACL Tear,Mild,28,Female,NSAIDs,8.0,High,Rest and Ice,42
+Muscle Strain,Moderate,18,Male,NSAIDs,5.5,Medium,Physiotherapy,22
+Sprained Ankle,Moderate,30,Female,NSAIDs,5.7,Low,Stretching,20
+ACL Tear,Moderate,32,Female,Steroid,5.3,High,Rest and Ice,45
+ACL Tear,Moderate,22,Female,None,8.6,Low,Physiotherapy,50
+ACL Tear,Moderate,38,Female,None,7.4,High,Rest and Ice,21
+Muscle Strain,Severe,34,Female,NSAIDs,5.7,High,Stretching,44
+Muscle Strain,Severe,23,Female,Steroid,6.5,High,Stretching,3
+Muscle Strain,Moderate,38,Male,NSAIDs,8.4,High,Rest and Ice,3
+ACL Tear,Severe,39,Male,Steroid,6.7,Low,Stretching,58
+ACL Tear,Mild,28,Male,NSAIDs,6.6,Medium,Physiotherapy,16
+Sprained Ankle,Mild,35,Female,NSAIDs,6.1,Low,Physiotherapy,7
+Sprained Ankle,Mild,21,Male,None,5.8,Medium,Rest and Ice,17
+Muscle Strain,Moderate,20,Female,NSAIDs,8.4,Low,Stretching,13
+ACL Tear,Severe,30,Female,Steroid,9.0,High,Physiotherapy,8
+ACL Tear,Mild,26,Female,NSAIDs,5.8,High,Physiotherapy,23
+Sprained Ankle,Severe,38,Male,Steroid,8.7,Medium,Physiotherapy,12
+Muscle Strain,Mild,23,Female,NSAIDs,6.4,Medium,Rest and Ice,4
+Muscle Strain,Severe,29,Female,Steroid,7.6,Low,Rest and Ice,9
+ACL Tear,Moderate,19,Male,Steroid,8.7,Medium,Physiotherapy,41
+ACL Tear,Mild,20,Male,NSAIDs,6.8,Low,Physiotherapy,15
+ACL Tear,Moderate,20,Female,None,6.6,Medium,Stretching,61
+Muscle Strain,Mild,29,Female,None,8.0,Medium,Stretching,15
+Muscle Strain,Mild,32,Male,None,5.7,Medium,Stretching,11
+Sprained Ankle,Mild,26,Male,NSAIDs,8.4,High,Rest and Ice,3
+Sprained Ankle,Severe,25,Male,NSAIDs,7.2,High,Physiotherapy,29
+ACL Tear,Moderate,28,Female,NSAIDs,6.3,Low,Rest and Ice,8
+ACL Tear,Mild,33,Male,NSAIDs,6.3,Medium,Physiotherapy,42
+ACL Tear,Moderate,39,Male,Steroid,5.3,Low,Stretching,39
+ACL Tear,Moderate,21,Male,Steroid,6.4,Medium,Stretching,34
+Muscle Strain,Mild,18,Female,None,6.7,High,Stretching,16
+ACL Tear,Moderate,24,Male,NSAIDs,5.7,High,Stretching,56
+ACL Tear,Mild,19,Male,None,6.9,Medium,Physiotherapy,29
+ACL Tear,Mild,22,Male,None,7.6,Medium,Stretching,50
+Sprained Ankle,Moderate,24,Male,NSAIDs,6.7,High,Physiotherapy,3
+Muscle Strain,Mild,21,Male,None,7.8,High,Physiotherapy,9
+Sprained Ankle,Moderate,22,Female,NSAIDs,6.0,Low,Rest and Ice,3
+ACL Tear,Moderate,18,Female,Steroid,8.2,High,Stretching,47
+Muscle Strain,Mild,18,Female,None,7.1,Medium,Stretching,10
+Sprained Ankle,Moderate,32,Male,NSAIDs,8.9,Low,Rest and Ice,3
+Muscle Strain,Mild,37,Female,NSAIDs,9.9,Medium,Physiotherapy,3
+Muscle Strain,Severe,36,Female,NSAIDs,6.4,Low,Stretching,25
+Muscle Strain,Moderate,27,Female,NSAIDs,6.5,Medium,Physiotherapy,3
+Sprained Ankle,Severe,35,Male,NSAIDs,6.7,High,Rest and Ice,3
+Muscle Strain,Moderate,20,Male,NSAIDs,7.7,Medium,Physiotherapy,5
+Muscle Strain,Mild,28,Female,NSAIDs,8.6,Low,Stretching,11
+ACL Tear,Moderate,32,Female,NSAIDs,6.2,Medium,Physiotherapy,45
+Muscle Strain,Severe,28,Male,NSAIDs,7.5,Low,Physiotherapy,7
+ACL Tear,Moderate,34,Male,NSAIDs,6.8,Medium,Stretching,69
+Muscle Strain,Severe,34,Female,Steroid,7.7,High,Stretching,33
+Muscle Strain,Severe,23,Male,NSAIDs,8.8,High,Physiotherapy,37
+ACL Tear,Mild,22,Female,NSAIDs,6.7,Medium,Physiotherapy,33
+Muscle Strain,Mild,25,Male,NSAIDs,5.0,Medium,Rest and Ice,10
+Sprained Ankle,Moderate,19,Female,Steroid,7.9,Medium,Stretching,17
+Sprained Ankle,Moderate,33,Female,Steroid,6.0,Low,Physiotherapy,3
+ACL Tear,Severe,37,Male,Steroid,6.8,Medium,Stretching,3
+Muscle Strain,Severe,29,Female,Steroid,7.9,Medium,Rest and Ice,7
+Muscle Strain,Moderate,23,Female,Steroid,7.4,Low,Physiotherapy,14
+Sprained Ankle,Mild,18,Female,None,6.9,High,Physiotherapy,6
+Sprained Ankle,Severe,21,Male,NSAIDs,6.3,Medium,Physiotherapy,19
+Sprained Ankle,Mild,34,Male,None,3.5,Medium,Stretching,11
+Muscle Strain,Severe,30,Male,Steroid,7.8,High,Rest and Ice,7
+Muscle Strain,Moderate,35,Female,Steroid,6.7,High,Stretching,8
+Muscle Strain,Moderate,22,Male,None,8.8,Low,Physiotherapy,19
+Muscle Strain,Mild,20,Female,NSAIDs,7.5,Medium,Rest and Ice,3
+ACL Tear,Moderate,28,Female,NSAIDs,6.4,Medium,Physiotherapy,24
+Sprained Ankle,Moderate,30,Male,None,8.3,Low,Physiotherapy,26
+Muscle Strain,Moderate,21,Male,Steroid,8.4,High,Stretching,10
+ACL Tear,Mild,31,Female,None,6.7,Low,Physiotherapy,37
+Muscle Strain,Moderate,39,Female,None,8.4,High,Rest and Ice,35
+Muscle Strain,Severe,28,Male,Steroid,6.3,Low,Physiotherapy,6
+ACL Tear,Mild,27,Male,NSAIDs,7.2,High,Physiotherapy,20
+ACL Tear,Mild,36,Male,None,7.7,Low,Stretching,44
+Sprained Ankle,Mild,35,Female,NSAIDs,7.9,High,Rest and Ice,3
+ACL Tear,Moderate,23,Female,NSAIDs,7.7,High,Stretching,47
+Muscle Strain,Moderate,32,Female,None,6.6,High,Physiotherapy,17
+Sprained Ankle,Moderate,38,Female,NSAIDs,8.3,High,Stretching,47
+Muscle Strain,Mild,27,Female,NSAIDs,6.9,High,Stretching,5
+ACL Tear,Moderate,22,Male,NSAIDs,6.3,Medium,Stretching,72
+Muscle Strain,Moderate,22,Male,Steroid,6.3,High,Stretching,18
+Sprained Ankle,Moderate,27,Female,Steroid,9.3,Medium,Physiotherapy,3
+Muscle Strain,Severe,22,Female,Steroid,6.1,High,Physiotherapy,3
+Sprained Ankle,Mild,20,Male,None,8.5,Medium,Rest and Ice,11
+Sprained Ankle,Moderate,23,Male,Steroid,5.6,Medium,Stretching,27
+Sprained Ankle,Moderate,21,Male,NSAIDs,7.6,Low,Stretching,19
+Sprained Ankle,Moderate,35,Male,NSAIDs,7.4,High,Rest and Ice,14
+Sprained Ankle,Moderate,26,Female,None,8.9,Low,Stretching,18
+Sprained Ankle,Moderate,34,Male,None,6.2,Low,Rest and Ice,7
+Muscle Strain,Severe,30,Female,Steroid,5.9,High,Physiotherapy,3
+Sprained Ankle,Mild,32,Male,NSAIDs,6.9,Low,Rest and Ice,3
+Sprained Ankle,Mild,37,Male,None,9.0,High,Stretching,3
+ACL Tear,Moderate,34,Male,NSAIDs,5.9,Low,Rest and Ice,28
+Muscle Strain,Moderate,30,Female,NSAIDs,3.9,High,Physiotherapy,21
+Muscle Strain,Mild,33,Female,NSAIDs,7.1,High,Stretching,3
+Sprained Ankle,Mild,39,Male,None,8.1,High,Physiotherapy,8
+Sprained Ankle,Mild,21,Female,NSAIDs,5.8,Medium,Physiotherapy,3
+Sprained Ankle,Severe,22,Female,Steroid,8.0,Low,Rest and Ice,26
+Sprained Ankle,Mild,22,Male,NSAIDs,5.8,Medium,Physiotherapy,3
+Sprained Ankle,Mild,26,Male,None,6.8,Low,Stretching,22
+Sprained Ankle,Mild,34,Female,None,7.9,Low,Physiotherapy,3
+Sprained Ankle,Moderate,30,Female,Steroid,5.6,Low,Physiotherapy,3
+Sprained Ankle,Mild,19,Female,None,7.2,Medium,Rest and Ice,12
+Muscle Strain,Moderate,30,Male,NSAIDs,8.5,Low,Physiotherapy,14
+Sprained Ankle,Mild,39,Male,None,7.6,Medium,Rest and Ice,21
+Muscle Strain,Severe,38,Female,NSAIDs,6.1,High,Rest and Ice,37
+Muscle Strain,Mild,36,Male,NSAIDs,8.8,Low,Stretching,10
+Muscle Strain,Moderate,20,Male,Steroid,7.8,Low,Stretching,3
+Sprained Ankle,Severe,27,Female,NSAIDs,4.8,High,Stretching,51
+ACL Tear,Moderate,19,Female,NSAIDs,8.0,High,Stretching,66
+Muscle Strain,Moderate,30,Male,Steroid,6.3,Low,Rest and Ice,3
+Sprained Ankle,Mild,36,Male,NSAIDs,7.2,High,Physiotherapy,3
+ACL Tear,Mild,34,Female,None,8.2,Medium,Stretching,44
+ACL Tear,Moderate,38,Male,NSAIDs,6.3,Medium,Stretching,30
+Sprained Ankle,Severe,31,Male,NSAIDs,5.0,Low,Stretching,11
+Sprained Ankle,Moderate,29,Female,Steroid,8.8,Medium,Physiotherapy,27
+ACL Tear,Moderate,38,Female,None,8.4,Medium,Stretching,51
+Muscle Strain,Moderate,29,Male,Steroid,6.9,Low,Physiotherapy,4
+Sprained Ankle,Moderate,28,Male,NSAIDs,8.0,High,Rest and Ice,3
+Sprained Ankle,Mild,24,Male,NSAIDs,6.6,Low,Rest and Ice,3
+Muscle Strain,Moderate,21,Female,None,7.1,Medium,Rest and Ice,10
+Muscle Strain,Severe,36,Male,NSAIDs,6.8,Low,Physiotherapy,37
+Muscle Strain,Mild,18,Male,NSAIDs,6.6,Low,Stretching,8
+Muscle Strain,Moderate,20,Female,NSAIDs,7.4,Medium,Stretching,7
+Muscle Strain,Mild,30,Female,NSAIDs,5.6,Medium,Stretching,10
+Muscle Strain,Moderate,32,Male,Steroid,6.7,Low,Stretching,6
+Sprained Ankle,Mild,19,Female,NSAIDs,7.4,Medium,Stretching,7
+Sprained Ankle,Moderate,28,Female,NSAIDs,9.2,Medium,Physiotherapy,9
+Muscle Strain,Severe,21,Male,NSAIDs,5.6,Medium,Rest and Ice,32
+ACL Tear,Mild,36,Female,NSAIDs,7.6,Medium,Stretching,31
+Muscle Strain,Moderate,34,Female,None,7.8,Medium,Rest and Ice,23
+Muscle Strain,Severe,20,Male,Steroid,4.7,Medium,Physiotherapy,37
+Sprained Ankle,Severe,35,Female,Steroid,7.5,High,Physiotherapy,25
+Muscle Strain,Mild,25,Male,NSAIDs,8.1,Low,Stretching,3
+Muscle Strain,Moderate,39,Male,None,7.7,Medium,Physiotherapy,14
+Sprained Ankle,Mild,36,Female,None,6.9,Low,Rest and Ice,21
+Sprained Ankle,Severe,22,Female,Steroid,7.4,High,Stretching,22
+Muscle Strain,Severe,24,Female,NSAIDs,7.2,Medium,Stretching,19
+Sprained Ankle,Moderate,38,Male,Steroid,5.0,Low,Rest and Ice,3
+Sprained Ankle,Severe,25,Female,Steroid,7.2,Medium,Stretching,25
+Sprained Ankle,Moderate,22,Male,NSAIDs,6.6,Medium,Stretching,6
+Sprained Ankle,Moderate,34,Female,NSAIDs,6.2,Medium,Rest and Ice,31
+Sprained Ankle,Mild,22,Female,None,10.0,Medium,Stretching,3
+ACL Tear,Severe,21,Female,NSAIDs,8.5,Medium,Stretching,111
+Muscle Strain,Mild,39,Male,None,5.6,Medium,Rest and Ice,10
+Muscle Strain,Severe,36,Female,NSAIDs,7.4,Medium,Physiotherapy,3
+ACL Tear,Severe,38,Female,Steroid,8.7,High,Rest and Ice,58
+Muscle Strain,Moderate,19,Male,NSAIDs,5.2,High,Stretching,6
+Sprained Ankle,Mild,28,Male,None,7.1,Medium,Rest and Ice,12
+Muscle Strain,Mild,39,Female,None,7.1,Medium,Stretching,8
+Muscle Strain,Mild,30,Female,None,5.5,High,Stretching,20
+Muscle Strain,Moderate,32,Female,NSAIDs,7.5,High,Rest and Ice,13
+Muscle Strain,Mild,29,Male,NSAIDs,8.3,High,Stretching,3
+Sprained Ankle,Severe,39,Male,None,8.8,Medium,Physiotherapy,16
+Sprained Ankle,Moderate,38,Male,NSAIDs,6.7,Low,Stretching,25
+Muscle Strain,Mild,39,Male,None,10.0,Low,Rest and Ice,13
+Muscle Strain,Moderate,28,Female,Steroid,4.5,Low,Physiotherapy,5
+Muscle Strain,Moderate,24,Male,NSAIDs,7.4,Low,Physiotherapy,3
+Muscle Strain,Moderate,22,Male,NSAIDs,5.3,Medium,Stretching,28
+ACL Tear,Moderate,34,Male,NSAIDs,7.1,Low,Rest and Ice,57
+Muscle Strain,Severe,37,Female,Steroid,6.4,High,Stretching,41
+Sprained Ankle,Moderate,26,Female,Steroid,7.6,High,Stretching,13
+Sprained Ankle,Severe,31,Male,NSAIDs,6.8,Low,Rest and Ice,16
+Sprained Ankle,Severe,29,Male,Steroid,6.0,High,Rest and Ice,30
+Sprained Ankle,Mild,23,Female,NSAIDs,6.1,Medium,Stretching,10
+Sprained Ankle,Severe,34,Female,Steroid,9.3,Low,Physiotherapy,3
+Sprained Ankle,Mild,36,Female,NSAIDs,7.5,Low,Stretching,7
+Sprained Ankle,Severe,36,Female,Steroid,5.0,Medium,Physiotherapy,15
+Sprained Ankle,Moderate,33,Female,NSAIDs,7.7,High,Stretching,24
+ACL Tear,Severe,29,Female,Steroid,6.8,Medium,Rest and Ice,72
+Sprained Ankle,Severe,29,Female,Steroid,7.0,Medium,Physiotherapy,3
+Muscle Strain,Severe,37,Female,Steroid,8.0,High,Rest and Ice,3
+Muscle Strain,Severe,23,Male,NSAIDs,8.4,Medium,Rest and Ice,19
+ACL Tear,Mild,21,Male,NSAIDs,6.0,High,Rest and Ice,27
+Sprained Ankle,Mild,23,Male,NSAIDs,7.0,High,Rest and Ice,9
+Muscle Strain,Moderate,28,Male,None,6.3,Medium,Rest and Ice,27
+ACL Tear,Mild,18,Male,NSAIDs,7.7,High,Stretching,51
+ACL Tear,Moderate,32,Male,NSAIDs,6.7,Medium,Physiotherapy,25
+ACL Tear,Mild,28,Female,NSAIDs,7.0,High,Stretching,18
+Sprained Ankle,Severe,36,Female,NSAIDs,6.7,Low,Stretching,11
+Sprained Ankle,Moderate,35,Male,NSAIDs,6.9,High,Stretching,25
+Muscle Strain,Severe,34,Male,Steroid,9.0,High,Rest and Ice,14
+ACL Tear,Mild,36,Female,None,9.9,Medium,Stretching,3
+Muscle Strain,Severe,38,Female,Steroid,7.5,High,Physiotherapy,16
+Muscle Strain,Severe,31,Female,NSAIDs,6.9,Low,Stretching,30
+Sprained Ankle,Moderate,35,Male,NSAIDs,5.1,Low,Rest and Ice,15
+ACL Tear,Moderate,36,Female,NSAIDs,6.1,High,Physiotherapy,45
+Sprained Ankle,Severe,32,Male,Steroid,6.8,High,Physiotherapy,3
+Sprained Ankle,Mild,32,Male,None,6.1,Low,Physiotherapy,21
+Muscle Strain,Moderate,21,Female,None,6.3,Medium,Physiotherapy,21
+Muscle Strain,Moderate,24,Female,NSAIDs,8.9,Low,Stretching,3
+Sprained Ankle,Mild,30,Male,None,7.0,Low,Rest and Ice,12
+Sprained Ankle,Moderate,20,Female,Steroid,7.1,High,Physiotherapy,9
+Muscle Strain,Mild,33,Female,Steroid,6.2,High,Physiotherapy,3
+Sprained Ankle,Mild,26,Male,None,8.4,Low,Rest and Ice,14
+Muscle Strain,Mild,25,Female,NSAIDs,6.7,Medium,Stretching,14
+Sprained Ankle,Severe,37,Male,NSAIDs,6.4,Low,Physiotherapy,11
+Muscle Strain,Moderate,30,Male,NSAIDs,5.1,Low,Stretching,22
+Muscle Strain,Severe,34,Female,Steroid,6.9,Medium,Stretching,23
+Sprained Ankle,Moderate,34,Male,Steroid,6.3,Low,Stretching,23
+Sprained Ankle,Mild,34,Male,NSAIDs,9.0,Low,Stretching,3
+Sprained Ankle,Moderate,18,Female,Steroid,9.2,High,Physiotherapy,3
+Sprained Ankle,Moderate,25,Female,NSAIDs,5.5,Medium,Physiotherapy,23
+ACL Tear,Mild,36,Female,Steroid,5.7,High,Stretching,5
+Sprained Ankle,Moderate,23,Male,None,6.7,High,Stretching,46
+ACL Tear,Mild,20,Male,NSAIDs,6.0,Medium,Rest and Ice,36
+Sprained Ankle,Moderate,22,Female,NSAIDs,7.3,Medium,Rest and Ice,6
+Muscle Strain,Moderate,30,Male,NSAIDs,6.6,Low,Rest and Ice,25
+ACL Tear,Mild,32,Female,None,7.3,High,Physiotherapy,28
+Muscle Strain,Mild,31,Female,NSAIDs,8.2,Medium,Rest and Ice,3
+Muscle Strain,Severe,33,Male,NSAIDs,5.7,High,Physiotherapy,10
+Muscle Strain,Moderate,35,Female,NSAIDs,8.2,High,Physiotherapy,3
+Sprained Ankle,Mild,39,Male,None,6.1,Medium,Physiotherapy,14
+ACL Tear,Severe,39,Male,NSAIDs,9.6,Low,Physiotherapy,3
+ACL Tear,Mild,28,Female,NSAIDs,8.9,High,Rest and Ice,8
+ACL Tear,Moderate,20,Male,NSAIDs,6.9,Medium,Stretching,53
+Sprained Ankle,Severe,39,Female,NSAIDs,5.8,Low,Stretching,20
+Muscle Strain,Mild,27,Male,None,5.6,High,Stretching,15
+ACL Tear,Mild,27,Male,NSAIDs,8.0,Medium,Rest and Ice,3
+Sprained Ankle,Mild,38,Male,NSAIDs,7.0,High,Stretching,4
+Sprained Ankle,Mild,33,Female,NSAIDs,8.1,Medium,Rest and Ice,3
+Muscle Strain,Mild,29,Male,None,9.6,Medium,Rest and Ice,3
+Muscle Strain,Moderate,19,Female,NSAIDs,6.1,High,Rest and Ice,32
+ACL Tear,Mild,26,Male,None,5.5,High,Stretching,26
+Sprained Ankle,Moderate,20,Male,None,7.2,Medium,Stretching,40
+ACL Tear,Severe,32,Female,Steroid,8.4,Low,Stretching,48
+Sprained Ankle,Severe,20,Female,Steroid,5.9,High,Physiotherapy,3
+Sprained Ankle,Moderate,36,Female,NSAIDs,7.0,Medium,Rest and Ice,3
+Sprained Ankle,Mild,35,Female,None,8.6,Medium,Physiotherapy,7
+ACL Tear,Moderate,25,Female,None,5.0,Low,Rest and Ice,77
+Muscle Strain,Moderate,34,Male,Steroid,7.3,Low,Stretching,27
+Muscle Strain,Moderate,25,Male,Steroid,6.4,Low,Rest and Ice,8
+Muscle Strain,Mild,24,Female,None,7.1,High,Rest and Ice,3
+ACL Tear,Severe,24,Male,NSAIDs,7.9,Medium,Physiotherapy,64
+Muscle Strain,Moderate,20,Male,Steroid,7.3,Medium,Rest and Ice,3
+ACL Tear,Mild,18,Male,NSAIDs,5.8,Medium,Stretching,36
+Muscle Strain,Moderate,21,Female,NSAIDs,6.4,Low,Rest and Ice,3
+Muscle Strain,Moderate,22,Male,None,8.7,Medium,Rest and Ice,3
+Muscle Strain,Severe,18,Male,None,7.4,High,Rest and Ice,52
+Sprained Ankle,Moderate,32,Male,NSAIDs,8.0,Low,Physiotherapy,6
+Muscle Strain,Severe,22,Female,NSAIDs,7.3,Low,Rest and Ice,23
+Muscle Strain,Mild,30,Male,None,8.0,Low,Rest and Ice,15
+Sprained Ankle,Moderate,25,Male,NSAIDs,6.5,Low,Physiotherapy,33
+ACL Tear,Moderate,25,Female,None,6.1,High,Physiotherapy,63
+Muscle Strain,Mild,22,Female,NSAIDs,7.9,Medium,Physiotherapy,3
+Muscle Strain,Mild,26,Male,None,8.4,High,Physiotherapy,7
+ACL Tear,Severe,18,Male,None,5.9,Medium,Stretching,61
+Muscle Strain,Mild,21,Female,NSAIDs,6.3,High,Stretching,5
+Sprained Ankle,Moderate,20,Female,NSAIDs,6.8,Low,Rest and Ice,16
+ACL Tear,Mild,19,Female,Steroid,8.9,Low,Stretching,4
+Muscle Strain,Mild,25,Female,NSAIDs,7.7,High,Rest and Ice,3
+Sprained Ankle,Mild,26,Female,None,5.4,High,Stretching,19
+Sprained Ankle,Severe,19,Female,Steroid,6.9,Medium,Physiotherapy,24
+ACL Tear,Severe,31,Female,NSAIDs,6.7,High,Physiotherapy,72
+Muscle Strain,Severe,31,Male,Steroid,5.6,High,Stretching,3
+Muscle Strain,Moderate,21,Female,NSAIDs,6.9,Medium,Stretching,28
+ACL Tear,Mild,23,Female,NSAIDs,6.7,Medium,Rest and Ice,46
+ACL Tear,Moderate,28,Male,None,6.6,Medium,Rest and Ice,46
+Sprained Ankle,Moderate,20,Female,NSAIDs,6.5,High,Rest and Ice,20
+Sprained Ankle,Severe,25,Female,Steroid,8.8,Medium,Physiotherapy,9
+Sprained Ankle,Mild,20,Male,NSAIDs,6.6,Low,Physiotherapy,6
+Muscle Strain,Moderate,31,Female,NSAIDs,7.1,Low,Physiotherapy,3
+Sprained Ankle,Mild,30,Male,None,6.9,Low,Physiotherapy,18
+Muscle Strain,Mild,30,Male,NSAIDs,6.4,High,Rest and Ice,7
+ACL Tear,Moderate,19,Male,Steroid,7.1,Low,Physiotherapy,48
+ACL Tear,Moderate,30,Male,None,7.1,High,Physiotherapy,41
+Sprained Ankle,Moderate,36,Female,NSAIDs,7.1,High,Physiotherapy,3
+ACL Tear,Moderate,23,Male,NSAIDs,6.0,Low,Physiotherapy,60
+Sprained Ankle,Moderate,33,Male,Steroid,6.8,Medium,Stretching,3
+ACL Tear,Severe,19,Female,NSAIDs,7.9,High,Rest and Ice,90
+Sprained Ankle,Severe,25,Male,NSAIDs,6.8,Low,Rest and Ice,12
+Muscle Strain,Severe,34,Male,Steroid,7.2,High,Physiotherapy,3
+ACL Tear,Severe,19,Male,NSAIDs,7.2,Medium,Stretching,62
+Sprained Ankle,Mild,27,Male,NSAIDs,7.5,Medium,Rest and Ice,12
+Sprained Ankle,Moderate,33,Female,NSAIDs,7.7,Low,Rest and Ice,3
+Muscle Strain,Moderate,23,Male,NSAIDs,6.8,High,Physiotherapy,26
+Muscle Strain,Mild,19,Female,None,5.9,High,Physiotherapy,12
+Muscle Strain,Severe,19,Female,Steroid,5.5,High,Rest and Ice,22
+Muscle Strain,Mild,30,Male,None,8.2,High,Rest and Ice,6
+Muscle Strain,Severe,32,Male,Steroid,7.9,Low,Stretching,12
+Sprained Ankle,Moderate,19,Male,Steroid,7.8,Medium,Rest and Ice,12
+Sprained Ankle,Moderate,24,Male,Steroid,8.0,Low,Rest and Ice,17
+Sprained Ankle,Moderate,20,Female,NSAIDs,6.8,High,Physiotherapy,3
+ACL Tear,Severe,25,Female,NSAIDs,6.3,High,Rest and Ice,33
+Muscle Strain,Moderate,31,Female,NSAIDs,5.8,Medium,Physiotherapy,7
+Muscle Strain,Moderate,39,Male,NSAIDs,5.7,High,Rest and Ice,29
+Muscle Strain,Mild,24,Female,NSAIDs,8.5,Low,Rest and Ice,3
+ACL Tear,Moderate,38,Male,NSAIDs,6.4,Low,Rest and Ice,69
+Sprained Ankle,Mild,24,Male,None,8.3,Medium,Stretching,12
+Muscle Strain,Moderate,18,Male,None,6.8,Low,Physiotherapy,3
+Muscle Strain,Moderate,34,Male,NSAIDs,6.2,Low,Stretching,10
+Muscle Strain,Moderate,26,Male,NSAIDs,5.7,Low,Rest and Ice,21
+Sprained Ankle,Mild,38,Female,None,6.3,Low,Stretching,28
+ACL Tear,Mild,30,Female,NSAIDs,8.7,High,Physiotherapy,3
+ACL Tear,Moderate,38,Male,NSAIDs,5.7,Low,Rest and Ice,3
+Muscle Strain,Mild,36,Female,NSAIDs,9.5,Medium,Stretching,3
+Muscle Strain,Mild,38,Male,NSAIDs,6.0,Medium,Stretching,12
+ACL Tear,Mild,36,Male,None,7.9,Low,Physiotherapy,3
+Muscle Strain,Severe,39,Male,NSAIDs,6.8,Medium,Stretching,50
+Sprained Ankle,Moderate,34,Female,NSAIDs,6.6,Low,Physiotherapy,25
+Muscle Strain,Moderate,27,Male,NSAIDs,5.5,Medium,Rest and Ice,16
+Muscle Strain,Mild,27,Male,NSAIDs,6.9,Medium,Rest and Ice,3
+Muscle Strain,Mild,21,Female,NSAIDs,5.6,Low,Stretching,6
+Muscle Strain,Severe,25,Female,Steroid,5.0,Low,Rest and Ice,30
+ACL Tear,Moderate,39,Female,Steroid,7.1,High,Rest and Ice,45
+ACL Tear,Mild,37,Male,None,6.2,Low,Stretching,67
+Muscle Strain,Mild,37,Male,None,9.0,Low,Rest and Ice,5
+Sprained Ankle,Mild,35,Female,NSAIDs,8.2,High,Stretching,3
+ACL Tear,Moderate,31,Male,NSAIDs,9.0,Low,Physiotherapy,3
+ACL Tear,Severe,35,Female,Steroid,6.2,Low,Physiotherapy,3
+Sprained Ankle,Mild,31,Female,None,7.2,High,Physiotherapy,9
+ACL Tear,Mild,37,Male,None,3.9,Low,Stretching,36
+ACL Tear,Mild,38,Male,Steroid,6.7,Low,Stretching,22
+Muscle Strain,Severe,32,Female,NSAIDs,7.1,High,Rest and Ice,14
+Muscle Strain,Mild,39,Female,Steroid,7.2,High,Rest and Ice,3
+Muscle Strain,Severe,21,Female,Steroid,6.9,Medium,Rest and Ice,27
+Sprained Ankle,Moderate,30,Female,Steroid,7.1,Low,Rest and Ice,3
+Sprained Ankle,Moderate,25,Male,NSAIDs,3.7,Medium,Rest and Ice,9
+ACL Tear,Mild,35,Female,NSAIDs,7.3,Medium,Stretching,40
+Sprained Ankle,Mild,29,Female,NSAIDs,7.6,High,Stretching,3
+Sprained Ankle,Moderate,31,Female,NSAIDs,8.6,Low,Physiotherapy,12
+Muscle Strain,Severe,19,Male,NSAIDs,7.4,Low,Physiotherapy,5
+Muscle Strain,Moderate,35,Male,NSAIDs,6.8,High,Physiotherapy,3
+ACL Tear,Moderate,19,Female,NSAIDs,8.3,Medium,Physiotherapy,48
+Sprained Ankle,Mild,28,Male,NSAIDs,4.2,High,Stretching,3
+Sprained Ankle,Severe,26,Male,NSAIDs,6.4,Low,Stretching,41
+Muscle Strain,Severe,29,Male,Steroid,6.1,High,Stretching,21
+Muscle Strain,Mild,34,Female,NSAIDs,7.0,Low,Rest and Ice,10
+Sprained Ankle,Severe,32,Female,NSAIDs,4.4,Medium,Rest and Ice,33
+Muscle Strain,Moderate,34,Male,Steroid,8.6,Low,Physiotherapy,3
+Sprained Ankle,Moderate,35,Female,NSAIDs,6.7,Medium,Rest and Ice,35
+Sprained Ankle,Moderate,39,Female,Steroid,7.4,Medium,Stretching,3
+Muscle Strain,Severe,23,Male,Steroid,7.3,Low,Physiotherapy,9
+Muscle Strain,Moderate,34,Male,Steroid,8.5,Low,Physiotherapy,10
+ACL Tear,Mild,35,Female,None,4.8,Medium,Rest and Ice,3
+Muscle Strain,Mild,25,Male,NSAIDs,7.1,High,Physiotherapy,6
+Muscle Strain,Severe,26,Female,None,8.4,Low,Rest and Ice,10
+Muscle Strain,Mild,23,Female,NSAIDs,6.9,Medium,Rest and Ice,3
+Sprained Ankle,Moderate,22,Male,Steroid,5.9,Medium,Physiotherapy,9
+Muscle Strain,Moderate,29,Female,NSAIDs,6.3,High,Rest and Ice,13
+Sprained Ankle,Moderate,28,Female,NSAIDs,6.5,Low,Rest and Ice,24
+ACL Tear,Moderate,18,Male,Steroid,6.1,Medium,Rest and Ice,3
+Sprained Ankle,Severe,28,Male,NSAIDs,6.8,High,Rest and Ice,38
+Muscle Strain,Mild,36,Male,NSAIDs,8.8,Medium,Physiotherapy,3
+Sprained Ankle,Mild,26,Female,None,6.3,Low,Stretching,22
+ACL Tear,Mild,19,Male,None,6.4,High,Stretching,8
+Muscle Strain,Severe,29,Male,Steroid,7.6,Medium,Rest and Ice,3
+Muscle Strain,Moderate,21,Male,NSAIDs,6.8,High,Rest and Ice,9
+Sprained Ankle,Mild,21,Male,NSAIDs,5.4,Low,Rest and Ice,3
+Muscle Strain,Severe,35,Female,NSAIDs,6.9,High,Stretching,3
+Sprained Ankle,Severe,32,Female,Steroid,6.9,Low,Rest and Ice,12
+ACL Tear,Severe,36,Male,Steroid,8.2,Medium,Physiotherapy,56
+Sprained Ankle,Severe,30,Female,Steroid,5.8,Low,Physiotherapy,66
+Sprained Ankle,Mild,36,Male,NSAIDs,8.2,Medium,Physiotherapy,3
+Sprained Ankle,Severe,34,Male,Steroid,6.9,Medium,Stretching,52
+Muscle Strain,Moderate,23,Female,NSAIDs,5.7,Low,Rest and Ice,14
+Muscle Strain,Severe,33,Female,NSAIDs,5.4,Medium,Rest and Ice,35
+Sprained Ankle,Moderate,29,Male,Steroid,9.3,High,Rest and Ice,3
+ACL Tear,Severe,36,Male,NSAIDs,6.8,Medium,Stretching,156
+Muscle Strain,Moderate,22,Female,NSAIDs,8.1,Low,Stretching,5
+Muscle Strain,Mild,34,Male,None,5.0,High,Stretching,12
+Muscle Strain,Moderate,18,Female,NSAIDs,10.0,High,Stretching,18
+Muscle Strain,Severe,27,Male,Steroid,8.1,Medium,Physiotherapy,15
+Muscle Strain,Severe,32,Male,NSAIDs,6.7,Medium,Stretching,18
+Sprained Ankle,Mild,38,Female,None,6.6,Low,Stretching,21
+Sprained Ankle,Mild,38,Female,None,7.9,High,Stretching,12
+ACL Tear,Mild,28,Female,NSAIDs,7.8,Low,Rest and Ice,23
+ACL Tear,Moderate,30,Female,Steroid,7.2,Medium,Rest and Ice,39
+Muscle Strain,Severe,22,Female,None,7.0,High,Rest and Ice,3
+Sprained Ankle,Mild,18,Female,NSAIDs,7.7,Low,Physiotherapy,3
+Muscle Strain,Moderate,29,Female,NSAIDs,4.9,Low,Physiotherapy,23
+Muscle Strain,Severe,28,Male,NSAIDs,6.6,Low,Stretching,14
+Sprained Ankle,Moderate,34,Male,Steroid,5.0,Low,Rest and Ice,9
+Sprained Ankle,Moderate,21,Male,NSAIDs,7.7,Low,Physiotherapy,28
+Muscle Strain,Moderate,32,Female,NSAIDs,6.2,High,Rest and Ice,12
+Muscle Strain,Moderate,26,Female,None,5.1,Low,Physiotherapy,17
+Sprained Ankle,Mild,38,Female,None,6.0,High,Physiotherapy,16
+Sprained Ankle,Moderate,37,Male,NSAIDs,7.2,Low,Stretching,9
+Sprained Ankle,Moderate,36,Female,None,6.8,Medium,Stretching,39
+Muscle Strain,Severe,36,Female,Steroid,5.6,Medium,Physiotherapy,30
+Sprained Ankle,Moderate,29,Male,NSAIDs,5.0,Low,Stretching,41
+Sprained Ankle,Severe,22,Female,Steroid,7.1,Medium,Physiotherapy,3
+ACL Tear,Mild,27,Male,None,6.3,High,Physiotherapy,54
+Sprained Ankle,Moderate,34,Male,NSAIDs,6.7,Low,Rest and Ice,21
+Muscle Strain,Mild,22,Female,NSAIDs,6.8,High,Stretching,3
+Sprained Ankle,Mild,39,Female,Steroid,7.5,Low,Stretching,3
+Sprained Ankle,Moderate,33,Female,None,8.0,Medium,Stretching,13
+Sprained Ankle,Severe,24,Male,Steroid,7.2,High,Rest and Ice,24
+Muscle Strain,Mild,26,Male,NSAIDs,6.6,Medium,Rest and Ice,5
+ACL Tear,Moderate,20,Male,NSAIDs,7.0,Medium,Rest and Ice,38
+ACL Tear,Severe,32,Female,Steroid,6.6,Low,Stretching,55
+Muscle Strain,Mild,33,Female,None,5.0,High,Stretching,14
+Muscle Strain,Moderate,35,Female,None,8.3,Medium,Stretching,31
+Sprained Ankle,Moderate,31,Female,NSAIDs,8.1,Low,Rest and Ice,3
+Sprained Ankle,Moderate,20,Male,NSAIDs,9.4,Low,Rest and Ice,14
+ACL Tear,Mild,29,Male,NSAIDs,9.7,Low,Physiotherapy,3
+Sprained Ankle,Moderate,26,Male,NSAIDs,5.6,Medium,Rest and Ice,5
+Sprained Ankle,Severe,24,Male,NSAIDs,6.6,Low,Physiotherapy,42
+Sprained Ankle,Moderate,26,Female,NSAIDs,10.0,High,Stretching,3
+Sprained Ankle,Mild,30,Female,None,7.0,High,Rest and Ice,11
+Sprained Ankle,Severe,35,Female,Steroid,7.3,Medium,Stretching,55
+Muscle Strain,Mild,22,Male,NSAIDs,5.2,High,Stretching,12
+Muscle Strain,Moderate,30,Male,Steroid,7.2,Low,Stretching,3
+ACL Tear,Mild,21,Female,NSAIDs,9.3,Medium,Stretching,17
+ACL Tear,Severe,19,Female,Steroid,8.5,Low,Rest and Ice,9
+Sprained Ankle,Moderate,33,Male,NSAIDs,6.3,Medium,Stretching,33
+Sprained Ankle,Mild,26,Female,NSAIDs,6.5,Medium,Physiotherapy,8
+Muscle Strain,Mild,26,Male,None,5.6,Low,Rest and Ice,16
+Muscle Strain,Mild,23,Male,None,6.0,High,Stretching,18
+Sprained Ankle,Severe,28,Male,NSAIDs,4.7,High,Rest and Ice,15
+Muscle Strain,Severe,39,Female,NSAIDs,6.9,Medium,Physiotherapy,3
+Muscle Strain,Moderate,39,Female,NSAIDs,8.8,Low,Stretching,17
+Muscle Strain,Moderate,18,Male,NSAIDs,7.4,Low,Physiotherapy,17
+Muscle Strain,Moderate,21,Female,NSAIDs,8.6,Medium,Stretching,29
+Sprained Ankle,Severe,30,Male,None,8.3,High,Physiotherapy,24
+ACL Tear,Moderate,30,Male,NSAIDs,6.3,Low,Stretching,34
+ACL Tear,Moderate,30,Male,NSAIDs,6.1,High,Rest and Ice,35
+Sprained Ankle,Moderate,19,Male,NSAIDs,6.1,High,Stretching,25
+ACL Tear,Moderate,26,Female,NSAIDs,4.9,Medium,Rest and Ice,36
+Muscle Strain,Mild,25,Male,None,7.0,Medium,Stretching,12
+ACL Tear,Moderate,24,Male,None,3.5,High,Stretching,76
+ACL Tear,Moderate,21,Female,None,7.7,Low,Physiotherapy,27
+Muscle Strain,Severe,35,Male,Steroid,7.1,Low,Physiotherapy,36
+Sprained Ankle,Mild,20,Male,NSAIDs,7.6,Medium,Physiotherapy,4
+Sprained Ankle,Moderate,23,Female,NSAIDs,8.3,High,Stretching,3
+Muscle Strain,Moderate,29,Female,None,7.2,Low,Stretching,16
+Muscle Strain,Moderate,29,Female,NSAIDs,9.0,Low,Stretching,3
+Sprained Ankle,Mild,38,Male,NSAIDs,7.7,Medium,Rest and Ice,3
+Sprained Ankle,Moderate,25,Female,Steroid,6.1,High,Rest and Ice,3
+ACL Tear,Moderate,39,Female,None,6.7,Low,Stretching,71
+ACL Tear,Moderate,39,Male,None,4.3,Medium,Physiotherapy,26
+Muscle Strain,Moderate,18,Male,NSAIDs,5.9,Low,Physiotherapy,14
+Sprained Ankle,Moderate,21,Male,NSAIDs,6.5,Low,Physiotherapy,18
+Sprained Ankle,Severe,38,Male,NSAIDs,7.7,Low,Stretching,31
+Sprained Ankle,Mild,28,Male,None,6.1,Medium,Physiotherapy,17
+ACL Tear,Severe,20,Female,Steroid,5.5,High,Stretching,131
+Sprained Ankle,Moderate,30,Female,Steroid,4.7,Medium,Rest and Ice,13
+Muscle Strain,Mild,34,Female,Steroid,6.3,High,Physiotherapy,3
+Sprained Ankle,Mild,39,Male,NSAIDs,9.3,Low,Rest and Ice,3
+Muscle Strain,Mild,39,Male,NSAIDs,7.3,High,Physiotherapy,3
+Muscle Strain,Severe,27,Male,NSAIDs,8.1,Low,Stretching,40
+ACL Tear,Moderate,38,Female,NSAIDs,5.9,Low,Stretching,66
+Sprained Ankle,Severe,29,Female,NSAIDs,5.1,Medium,Stretching,12
+Sprained Ankle,Moderate,32,Male,NSAIDs,5.5,Low,Stretching,3
+Sprained Ankle,Moderate,38,Female,NSAIDs,6.9,Medium,Physiotherapy,3
+ACL Tear,Mild,27,Male,None,4.6,High,Rest and Ice,34
+ACL Tear,Mild,31,Female,None,5.8,High,Stretching,30
+Muscle Strain,Moderate,30,Female,NSAIDs,6.3,Low,Physiotherapy,11
+Muscle Strain,Mild,22,Female,None,5.4,Medium,Rest and Ice,18
+Muscle Strain,Mild,23,Male,None,4.5,Low,Stretching,19
+Sprained Ankle,Moderate,19,Female,Steroid,7.3,Medium,Rest and Ice,14
+ACL Tear,Moderate,39,Female,NSAIDs,7.1,Medium,Stretching,3
+Muscle Strain,Severe,34,Male,Steroid,7.9,Medium,Rest and Ice,3
+Muscle Strain,Severe,21,Female,Steroid,5.7,High,Rest and Ice,6
+Muscle Strain,Moderate,31,Male,Steroid,7.9,Medium,Stretching,3
+Sprained Ankle,Moderate,27,Male,NSAIDs,8.8,High,Physiotherapy,17
+Sprained Ankle,Moderate,20,Male,Steroid,7.3,Medium,Rest and Ice,3
+Muscle Strain,Severe,20,Male,NSAIDs,6.3,High,Stretching,37
+Sprained Ankle,Mild,32,Male,None,7.2,High,Rest and Ice,6
+Muscle Strain,Moderate,23,Female,NSAIDs,6.2,High,Rest and Ice,3
+Sprained Ankle,Severe,34,Male,Steroid,6.0,Low,Physiotherapy,3
+Muscle Strain,Moderate,29,Male,NSAIDs,7.8,Medium,Rest and Ice,36
+Sprained Ankle,Moderate,39,Male,NSAIDs,6.8,Low,Rest and Ice,5
+Muscle Strain,Moderate,37,Male,None,8.4,Medium,Stretching,27
+Muscle Strain,Mild,28,Female,NSAIDs,6.5,Medium,Stretching,3
+Sprained Ankle,Moderate,21,Male,None,6.6,Low,Physiotherapy,36
+Muscle Strain,Mild,23,Female,NSAIDs,6.3,High,Rest and Ice,5
+Muscle Strain,Mild,18,Male,NSAIDs,5.7,Medium,Rest and Ice,6
+Muscle Strain,Mild,37,Female,NSAIDs,8.0,High,Rest and Ice,3
+ACL Tear,Severe,33,Male,Steroid,9.6,Low,Physiotherapy,64
+Muscle Strain,Mild,32,Male,NSAIDs,6.5,High,Rest and Ice,8
+Sprained Ankle,Moderate,34,Female,NSAIDs,6.2,Medium,Stretching,10
+Sprained Ankle,Mild,25,Male,NSAIDs,6.1,Medium,Physiotherapy,3
+Sprained Ankle,Severe,29,Female,Steroid,6.2,Medium,Stretching,23
+Muscle Strain,Mild,39,Male,None,9.0,Low,Stretching,13
+Sprained Ankle,Moderate,38,Female,None,6.1,Medium,Physiotherapy,18
+Muscle Strain,Severe,27,Male,NSAIDs,6.3,Low,Stretching,39
+Muscle Strain,Severe,32,Male,NSAIDs,5.5,High,Rest and Ice,35
+Sprained Ankle,Mild,26,Female,NSAIDs,7.4,Medium,Physiotherapy,3
+ACL Tear,Severe,19,Male,Steroid,6.9,Medium,Stretching,3
+Sprained Ankle,Moderate,22,Male,NSAIDs,5.6,Medium,Rest and Ice,10
+Sprained Ankle,Moderate,23,Male,None,5.9,High,Rest and Ice,45
+Muscle Strain,Mild,24,Male,Steroid,8.8,Medium,Stretching,3
+Muscle Strain,Mild,38,Male,None,7.0,Low,Rest and Ice,6
+Muscle Strain,Moderate,18,Male,NSAIDs,7.1,High,Physiotherapy,11
+Muscle Strain,Moderate,24,Female,NSAIDs,7.1,High,Stretching,21
+Sprained Ankle,Moderate,37,Female,NSAIDs,8.7,High,Rest and Ice,4
+ACL Tear,Moderate,29,Female,None,5.7,High,Rest and Ice,81
+ACL Tear,Severe,33,Male,NSAIDs,6.5,High,Stretching,80
+Muscle Strain,Mild,33,Female,None,6.8,Low,Stretching,6
+Sprained Ankle,Moderate,28,Male,NSAIDs,4.9,High,Stretching,29
+Muscle Strain,Mild,38,Male,NSAIDs,5.9,Medium,Stretching,3
+Muscle Strain,Severe,21,Male,NSAIDs,8.3,High,Physiotherapy,14
+Sprained Ankle,Moderate,30,Male,NSAIDs,7.9,High,Stretching,3
+ACL Tear,Severe,24,Female,Steroid,8.1,High,Physiotherapy,70
+Sprained Ankle,Mild,21,Male,None,6.3,High,Physiotherapy,8
+ACL Tear,Mild,32,Female,NSAIDs,6.4,High,Stretching,40
+Muscle Strain,Mild,36,Male,NSAIDs,4.9,Low,Physiotherapy,3

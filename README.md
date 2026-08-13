@@ -39,7 +39,8 @@ Python, pandas, scikit-learn (Linear Regression, Random Forest, Logistic
 Regression), matplotlib/seaborn
 
 ## How to Run
-​Open `01_athlete_recovery_analysis.ipynb` and `02_synthetic_drug_recovery_analysis.ipynb`
+​Requires `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`.
+Open `01_athlete_recovery_analysis.ipynb` and `02_synthetic_drug_recovery_analysis.ipynb`
 and run all cells (datasets are loaded from the same folder).
 
 ## Full Notebooks
